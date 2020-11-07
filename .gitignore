@@ -1,0 +1,7 @@
+build/
+dist/
+test/
+*.FIT
+*.ui
+.idea/
+__pycache__/
